@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>专注一小时</item>
+        <item>喝杯水</item>
+        <item>出门走走</item>
+        <item>早点睡</item>
+        <item>读几页书</item>
+    </string-array>
+</resources>
